@@ -13,6 +13,6 @@
 
 <p align="center">
 <a href="https://dev.to/franciscoaguilars" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="franciscoaguilars" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/francisco aguilar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="francisco aguilar" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/francisco-aguilar-a649a1194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="francisco aguilar" height="30" width="30" /></a>
 <a href="https://instagram.com/frankaguilarsi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="frankaguilarsi" height="30" width="30" /></a>
 </p>
