@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">learning new things, one day at a time!</h3>
 
-- 🔭 I’m currently working on [VenMu](https://github.com/JairHdezg/VenMu)
+- 🔭 I’m currently working @ [ComunidadFeliz](https://www.comunidadfeliz.com/)
 
-- 🌱 I’m currently learning **React.js!**
+- 🌱 Working as a Software Engineer with Ruby on Rails**
 
 - 💬 Ask me about **Ruby or Ruby on Rails!**
 
